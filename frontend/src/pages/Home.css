@@ -1,0 +1,11 @@
+.home__mg{
+    text-align: center;
+}
+.home__bg{
+    background-image: url(../assets/homebg.jpg)  ;
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    overflow-x: hidden;
+}
