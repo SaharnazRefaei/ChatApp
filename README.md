@@ -1,4 +1,4 @@
-<p>✨Chatgram  </p>
+<p>✨Chat App  </p>
 <p>✳️A real-time chat application using MERN Stack tools.✳️</p>
 <p>📍 Built using Socket.io (real-time messaging functionality), ReactJS, ReduxJS, MongoDB, Express and GraphQL API.<P>
 <p>📍 Using Google Maps API to locate and list tourist places based on the user’s input.</P>
